@@ -18,7 +18,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
   
     const accessKey = 'ruS2fqkIl5kwe87zDt04HN_blL0SoIA5JJ4d5E-4tvE'; // Substitua pela sua chave da API
-    const apiUrl = `https://api.unsplash.com/photos/random?query=nature&client_id=${accessKey}&count=10`;
+    const width = 2448; 
+    const height = 3264; 
+    const apiUrl = `https://api.unsplash.com/photos/random?query=nature&client_id=${accessKey}&count=10&w=${width}&h=${height}`;
   
     try {
       const response = await fetch(apiUrl);
@@ -47,7 +49,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
   };
 
-  
 
   // Função para criar os cards
 templateCards = (valores, images) => {

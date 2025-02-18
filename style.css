@@ -70,6 +70,27 @@ main {
   }
 }
 
+#counter {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background-color: #4CAF50; /* Cor de fundo */
+  color: white; /* Cor do texto */
+  padding: 10px 20px; /* Espaçamento interno */
+  border: none; /* Sem borda */
+  border-radius: 5px; /* Bordas arredondadas */
+  font-size: 16px; /* Tamanho da fonte */
+  cursor: pointer; /* Cursor de ponteiro */
+  font-family: var(--font-sans);
+  /* Inicialmente escondido */
+  z-index: 1000; /* Garante que o botão fique acima de outros elementos */
+}
+
+#counter:hover {
+  background-color: #45a049; /* Cor ao passar o mouse */
+}
+
+
 #next-button {
   position: fixed;
   top: 10px;
@@ -79,6 +100,7 @@ main {
   padding: 10px 20px; /* Espaçamento interno */
   border: none; /* Sem borda */
   border-radius: 5px; /* Bordas arredondadas */
+  font-family: var(--font-sans);
   font-size: 16px; /* Tamanho da fonte */
   cursor: pointer; /* Cursor de ponteiro */
   display: none; /* Inicialmente escondido */
@@ -96,7 +118,7 @@ main {
   overflow: hidden;
   padding: 1rem;
   width: 100%;
-  text-align: center;
+  text-align: left;
   color: whitesmoke;
   background-color: whitesmoke;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.1);
@@ -148,46 +170,43 @@ main {
   opacity: 0.5;
 }
 
+.card img {
+  width: 100%;  /* Faz a imagem ocupar toda a largura do card */
+  height: 150px; /* Define uma altura fixa */
+  object-fit: cover; /* Corta a imagem para preencher o espaço sem distorcer */
+  border-radius: 8px; /* Mantém um design arredondado */
+}
 #valores-container, #selecionados-container {
-  border: 2px dashed #ccc;
+  border: 2px solid #ccc;
   padding: 10px;
   min-height: 200px;
 }
-
-#counter {
-  position: fixed;
-  top: 10px;
-  left: 10px;
-  background: #fff;
-  padding: 5px 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
 
 .content {
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
   width: 100%;
-  padding: 1rem;
   transition: transform var(--d) var(--e);
   z-index: 1;
 }
 .content > * + * {
-  margin-top: 1rem;
+  margin-top: 0.3rem;
+}
+
+h2{
+  margin: 0.3rem 0; /* Margem personalizada */
 }
 
 .title {
   font-size: 1.3rem;
   font-weight: bold;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .copy {
   font-family: var(--font-serif);
-  font-size: 1rem;
+  font-size: clamp(14px, 1vw, 16px); /* Ajuste dinâmico do tamanho */
   font-style: italic;
   line-height: 1.35;
 }
