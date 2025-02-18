@@ -1,0 +1,161 @@
+[
+    {
+      "id": "Estabilidade",
+      "title": "Estabilidade",
+      "description": "Muito parecido com segurança, mas se diferencia pois o valor da segurança permite que a pessoa aceite desafios e mudanças, desde que se organize para respeitar sua segurança, como no caso de fazer uma boa reserva financeira para mudar de emprego. Já quem tem o valor da estabilidade dificilmente se sentirá motivado a fazer uma mudança radical de vida, mesmo que tenha uma fortuna guardada."
+    },
+    {
+      "id": "Comprometimento com o próximo ",
+      "title": "Comprometimento com o próximo ",
+      "description": "Se uma pessoa com esse valor falar para alguém que fará algo, fica extremamente incomodado se não fizer. Muitas pessoas com este valor são extremamente pontuais para não deixar o próximo esperando. Muitas vezes faz muito mais pelo próximo do que por si mesmo."
+    },
+    {
+        "id": "Crescimento contínuo",
+        "title": "Crescimento contínuo",
+        "description": "Uma pessoa com valor de crescimento contínuo se recusa a permanecer onde está em termos de conhecimento, aprendizado e função profissional. Precisa evoluir permanentemente nos diversos papéis que exerce na sociedade."
+      }, 
+      {
+        "id": "Mudança / variedade",
+        "title": "Mudança / variedade",
+        "description": "Oposto da previsibilidade e rotina. Mesmo que esteja bem profissionalmente, tende a querer mudanças de vida de tempo em tempo. Não há mal nenhum nisto, mas a pessoa precisa aprender a lidar com esse valor, pois se ele for mal gerenciado pode impedir a evolução profissional."
+      },
+      {
+        "id": "Respeito",
+        "title": "Respeito",
+        "description": "Pessoas com esse valor estão sempre atentos ao direito do outro. O problema é que tendem a se incomodar além do limite com quem fura fila num pedágio, ouve um som alto de carro e outras formas de não cuidado com o próximo"
+      },
+      {
+        "id": "Reconhecimento",
+        "title": "Reconhecimento",
+        "description": "Uma pessoa com esse valor precisa ser reconhecida nos diversos papéis da vida. Para pessoas assim, muitas vezes, um elogio em público vale mais do que um bônus por uma meta cumprida."
+      },
+      {
+        "id": "Segurança",
+        "title": "Segurança",
+        "description": "Pessoas com esse valor tem muita dificuldade de lidar com qualquer situação que possa pôr em risco a situação de vida já conquistada, tanto no emprego, como no status social e patrimonial."
+      },
+      {
+        "id": "Liberdade",
+        "title": "Liberdade",
+        "description": "São pessoas que precisam de certas concessões familiares e profissionais. Não suportam bem o rigor de horário comercial de 8 às 17, se sentem sufocado se não tiver uma mínima liberdade. Odeiam ser regulados por seus parceiros de vida."
+      },
+      {
+        "id": "Honestidade",
+        "title": "Honestidade",
+        "description": "Pessoas com esse valor são intolerantes a quase toda forma de jeitinhos. São incapazes de fazer algo que não seja totalmente lícito."
+      },
+      {
+        "id": "Comprometimento consigo mesmo(a)",
+        "title": "Comprometimento consigo mesmo(a)",
+        "description": "Pessoas com esse valor tendem a ser super realizadoras, se se comprometem com algo, vão cumprir. Tendem também a dar atenção a seus comprometimentos pessoais e não abrirem mão deles por conta de forças externas."
+      },
+      {
+        "id": "Status",
+        "title": "Status",
+        "description": "Uma pessoa com esse valor alto se importa com a forma que é vista pela sociedade. Não é reconhecimento e nem sucesso, é status mesmo. São perfis que vão se preocupar com a marca da roupa ou do celular, do valor do carro e dos ambientes que frequenta."
+      },
+      {
+        "id": "Fama",
+        "title": "Fama",
+        "description": "Uma pessoa com esse valor precisa ser reconhecida nos diversos papéis da vida. Para pessoas assim, muitas vezes, um elogio em público vale mais do que um bônus por uma meta cumprida."
+      },
+      
+      {
+        "id": "Ordem / Organização",
+        "title": "Ordem / Organização",
+        "description": "Não é rotina e nem previsibilidade, o valor da organização faz com que as pessoas que tenham esse valor precisem ter tudo sobre controle. Se começam a não saber exatamente como andam as coisas, tendem a se sentir inseguras e irritadas, como se perdessem o controle da situação. Costumam ter lugar para tudo em casa e no trabalho"
+      },
+      {
+        "id": "Responsabilidade",
+        "title": "Responsabilidade",
+        "description": "O valor da responsabilidade pode aflorar com vários critérios, como pontualidade, cumprimento do que é esperado dele. É um valor muito positivo, mas quem tem este valor precisa estar alerta para não abandonar a vida social e familiar pelo trabalho."
+      },
+      {
+        "id": "Excelência",
+        "title": "Excelência",
+        "description": "Procuram fazer tudo com perfeição. O perigo deste valor é impedir que a pessoa progrida numa velocidade adequada, pois sempre acredita que algo poderia ser melhor e acaba paralisando. Pessoas com este valor precisam aprender e praticar o 'feito é melhor que perfeito'."
+      },
+      {
+        "id": "Individualidade",
+        "title": "Individualidade",
+        "description": "Pessoas com esse valor precisam de um tempo para si, muitas vezes até diariamente. Não gostam de interferências em suas opiniões pessoais, a não ser que tenham pedido ajuda ou conselhos. Tendem a respeitar a opinião e decisões das outras pessoas e só dão sugestões quando solicitadas."
+      },
+      {
+        "id": "Desafios",
+        "title": "Desafios ",
+        "description": "Pessoas movidas a novos desafios, se permanecerem muito tempo no mesmo lugar sem se sentirem desafiadas, ficarão desconfortáveis."
+      },
+      {
+        "id": "Rotina",
+        "title": "Rotina",
+        "description": "Gostam que as coisas aconteçam numa sequência previamente estabelecida e, de preferência, repetidamente. Não costumam gerenciar muito bem imprevisibilidades e desafios."
+      },
+      {
+        "id": "Aceitação Social",
+        "title": "Aceitação Social",
+        "description": "Pessoas com o valor da aceitação social precisam que o grupo em que estejam aceitem ela. Não suportam não ter atenção do grupo a que façam parte. Muitas vezes procurando reproduzir os comportamentos do grupo ao qual pertencem para ser aceitos."
+      },
+      {
+        "id": "Sucesso",
+        "title": "Sucesso",
+        "description": "Pessoas com o valor do sucesso muito alto, não suportam ser só mais um. Não se trata tanto de reconhecimento, mas de ser bem sucedido no que fazem, independentemente de ter ou não reconhecimento."
+      },
+      {
+        "id": "Contribuição",
+        "title": "Contribuição",
+        "description": "Pessoas com valor de contribuição precisam ajudar ao próximo de alguma maneira. Se sentem extremamente incomodadas quando não estão contribuindo com algo ou ainda piores quando atrapalham, mesmo que sem intenção."
+      },
+      {
+        "id": "Responsabilidade",
+        "title": "Responsabilidade",
+        "description": "O valor da responsabilidade pode aflorar com vários critérios, como pontualidade, cumprimento do que é esperado dele. É um valor muito positivo, mas quem tem este valor precisa estar alerta para não abandonar a vida social e familiar pelo trabalho."
+      },
+      {
+        "id": "Poder",
+        "title": "Poder",
+        "description": "Uma pessoa com esse perfil gosta de ter pessoas que o obedecem pelo cargo ou função exercida. É um valor perigoso para uma função de líder, pois podem cair da tentação de abandonar as técnicas de liderança para chefiar pela força e poder."
+      },
+      {
+        "id": "Previsibilidade",
+        "title": "Previsibilidade",
+        "description": "Uma pessoa com esse valor precisa saber o que acontecerá no seu dia. Tolera pouco os desafios e as mudanças inesperadas do dia a dia. Tendem a ser bastante programades, inclusive com 'plano B', procurando prever até mesmo os problemas que podem acontecer."
+      },
+      {
+        "id": "Competitividade",
+        "title": "Competitividade",
+        "description": "Transformam tudo numa competição. 'Vamos ver quem faz mais rápido' ou  'vamos ver quem faz mais' são frases comuns. Costumam realizar muita coisa, mas têm o grande risco de fazer inimizades pelo caminho."
+      },
+      {
+        "id": "Compaixão",
+        "title": "Compaixão",
+        "description": "Pode ser nos dois sentidos. Precisa que os outros se ressintam das suas dores e se ressente muito das dores dos outros. Muitas vezes a compaixão é só um sub- valor da contribuição.   "
+      },
+      {
+        "id": "Reputação",
+        "title": "Reputação ",
+        "description": "O que importa é como os outros o veem. Ter a ideia de que algo possa manchar sua reputação diante das outras pessoas é bastante incômodo."
+      },
+      {
+        "id": "Compartilhamento",
+        "title": "Compartilhamento",
+        "description": "Pessoas com esse valor gostam de compartilhar o que tem, desde ideias até coisas materiais, tendem a não ter muito apego e se sentem bem em utilizar as coisas das outras pessoas. Podem compartilhar espaços e gostar de viver em uma grande comunidade. Gostam de fazer as coisas junto com outros pessoas, tendo, por vezes, dificuldade de realizar coisas que tem que fazer sozinhas. "
+      },
+      {
+        "id": "Justiça",
+        "title": "Justiça",
+        "description": "Pessoas com esse valor tendem a querer que o que é certo seja feito, se pegam julgando situações e avaliando se o acontecido este sendo justo ou não. Não raro tentam interferir em situações percebidas como injustas, mesmo que não tenham relação direta com elas."
+      },
+      {
+        "id": "Serenidade",
+        "title": "Serenidade",
+        "description": "Pessoas com esse valor gostam de ambinetes harmônicos, sem agitação. Tendem a fazer uma coisa de cada vez e buscam agir com calma, evitando atritos ou conflitos. Muitas vezes são vistas como pessoas pacientes e tranquilas. "
+      },
+      {
+        "id": "Prudência",
+        "title": "Prudência",
+        "description": "São pessoas cautelosas, que valorizam um bom planejamento e são bastante atentas a como as coisas devem ser feitas. Evitam riscos e procuram agir com sensatez em suas ações e tomadas de decisão."
+      }
+
+
+  ]
+  
